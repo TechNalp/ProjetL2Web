@@ -1,6 +1,6 @@
 # ProjetL2Web
 Projet Web réalisé pendant ma L2 informatique.
-```
+```diff
 - Pour ce projet nous n'avions pas le temps de réaliser le design html et css, j'ai donc pris le template suivant : https://www.free-css.com/free-css-templates/page238/box que j'ai un peu retravaillé.
 ```
 Pour ce projet j'ai :  
